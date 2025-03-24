@@ -9,7 +9,7 @@ authors = [
 dependencies = [
     "flake8==4.0.1",
     "pytest-cov==3.0.0",
-    "pytest-django==4.5.2",
+    "pytest-django==4.10.0",
     "pytest-sugar==0.9.5",
     "pytest",
     "sphinx==4.3.2",
